@@ -1,0 +1,200 @@
+[
+  {
+    "type": 0,
+    "name": "Hat",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 1,
+    "name": "Armwear Right",
+    "category": "Arms",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 2,
+    "name": "Armwear Left",
+    "category": "Arms",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 3,
+    "name": "Legwear Right",
+    "category": "Legs",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 4,
+    "name": "Legwear Left",
+    "category": "Legs",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 5,
+    "name": "Head Top",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 6,
+    "name": "Head Bottom",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 7,
+    "name": "Body Top",
+    "category": "Body",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 8,
+    "name": "Body Bottom",
+    "category": "Body",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 9,
+    "name": "Arm Right",
+    "category": "Arms",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 10,
+    "name": "Arm Left",
+    "category": "Arms",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 11,
+    "name": "Leg Right",
+    "category": "Legs",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 12,
+    "name": "Leg Left",
+    "category": "Legs",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 13,
+    "name": "Grabber",
+    "category": "Arms",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 14,
+    "name": "Eye Lid Right",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 15,
+    "name": "Eye Lid Left",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 16,
+    "name": "Body Top Overlay",
+    "category": "Body",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 17,
+    "name": "Ears",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 18,
+    "name": "Eyewear",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 19,
+    "name": "Foot Right",
+    "category": "Legs",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 20,
+    "name": "Bodywear Top",
+    "category": "Body",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 21,
+    "name": "Bodywear Bottom",
+    "category": "Body",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 22,
+    "name": "Foot Left",
+    "category": "Legs",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 23,
+    "name": "Body Bottom Overlay",
+    "category": "Body",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 24,
+    "name": "Head Top Overlay",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 25,
+    "name": "Head Bottom Overlay",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 26,
+    "name": "Arm Right Overlay",
+    "category": "Arms",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 27,
+    "name": "Arm Left Overlay",
+    "category": "Arms",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 28,
+    "name": "Leg Right Overlay",
+    "category": "Legs",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 29,
+    "name": "Leg Left Overlay",
+    "category": "Legs",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 30,
+    "name": "Headwear Bottom",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 31,
+    "name": "Face Upper",
+    "category": "Head",
+    "canEquipMultiple": false
+  },
+  {
+    "type": 32,
+    "name": "Face Lower",
+    "category": "Head",
+    "canEquipMultiple": false
+  }
+]

@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-ssr
+.vite
+.git
+.gitignore
+.dockerignore
+docker-compose.yml
+*.md
+.env*
+
+scripts
+tools/extract-cosmetics/.venv
+tools/extract-cosmetics/__pycache__
+
+repo-save-editor-deprecated
+MetaSave.es3

@@ -1,0 +1,7 @@
+services:
+  repo-cosmetics-save-editor:
+    container_name: repo-cosmetics-save-editor
+    build: .
+    ports:
+      - "8000:80"
+    restart: unless-stopped

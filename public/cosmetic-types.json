@@ -1,0 +1,154 @@
+[
+  {
+    "key": "COSMETICS.TYPE.ARM_LEFT",
+    "name": "Armwear Left"
+  },
+  {
+    "key": "COSMETICS.TYPE.ARM_LEFT_MESH",
+    "name": "Arm Left"
+  },
+  {
+    "key": "COSMETICS.TYPE.ARM_LEFT_OVERLAY",
+    "name": "Arm Left Overlay"
+  },
+  {
+    "key": "COSMETICS.TYPE.ARM_RIGHT",
+    "name": "Armwear Right"
+  },
+  {
+    "key": "COSMETICS.TYPE.ARM_RIGHT_MESH",
+    "name": "Arm Right"
+  },
+  {
+    "key": "COSMETICS.TYPE.ARM_RIGHT_OVERLAY",
+    "name": "Arm Right Overlay"
+  },
+  {
+    "key": "COSMETICS.TYPE.BODY_BOTTOM",
+    "name": "Bodywear Bottom"
+  },
+  {
+    "key": "COSMETICS.TYPE.BODY_BOTTOM_MESH",
+    "name": "Body Bottom"
+  },
+  {
+    "key": "COSMETICS.TYPE.BODY_BOTTOM_OVERLAY",
+    "name": "Body Bottom Overlay"
+  },
+  {
+    "key": "COSMETICS.TYPE.BODY_TOP",
+    "name": "Bodywear Top"
+  },
+  {
+    "key": "COSMETICS.TYPE.BODY_TOP_MESH",
+    "name": "Body Top"
+  },
+  {
+    "key": "COSMETICS.TYPE.BODY_TOP_OVERLAY",
+    "name": "Body Top Overlay"
+  },
+  {
+    "key": "COSMETICS.TYPE.EARS",
+    "name": "Ears"
+  },
+  {
+    "key": "COSMETICS.TYPE.EYEWEAR",
+    "name": "Eyewear"
+  },
+  {
+    "key": "COSMETICS.TYPE.EYE_LID_LEFT_MESH",
+    "name": "Eye Lid Left"
+  },
+  {
+    "key": "COSMETICS.TYPE.EYE_LID_RIGHT_MESH",
+    "name": "Eye Lid Right"
+  },
+  {
+    "key": "COSMETICS.TYPE.FACE_BOTTOM",
+    "name": "Face Middle"
+  },
+  {
+    "key": "COSMETICS.TYPE.FACE_TOP",
+    "name": "Face Upper"
+  },
+  {
+    "key": "COSMETICS.TYPE.FOOT_LEFT",
+    "name": "Footwear Left"
+  },
+  {
+    "key": "COSMETICS.TYPE.FOOT_RIGHT",
+    "name": "Footwear Right"
+  },
+  {
+    "key": "COSMETICS.TYPE.GRABBER_MESH",
+    "name": "Grabber"
+  },
+  {
+    "key": "COSMETICS.TYPE.HAT",
+    "name": "Hat"
+  },
+  {
+    "key": "COSMETICS.TYPE.HEAD_BOTTOM",
+    "name": "Face Lower"
+  },
+  {
+    "key": "COSMETICS.TYPE.HEAD_BOTTOM_MESH",
+    "name": "Head Bottom"
+  },
+  {
+    "key": "COSMETICS.TYPE.HEAD_BOTTOM_OVERLAY",
+    "name": "Head Bottom Overlay"
+  },
+  {
+    "key": "COSMETICS.TYPE.HEAD_TOP_MESH",
+    "name": "Head Top"
+  },
+  {
+    "key": "COSMETICS.TYPE.HEAD_TOP_OVERLAY",
+    "name": "Head Top Overlay"
+  },
+  {
+    "key": "COSMETICS.TYPE.LEG_LEFT",
+    "name": "Legwear Left"
+  },
+  {
+    "key": "COSMETICS.TYPE.LEG_LEFT_MESH",
+    "name": "Leg Left"
+  },
+  {
+    "key": "COSMETICS.TYPE.LEG_LEFT_OVERLAY",
+    "name": "Leg Left Overlay"
+  },
+  {
+    "key": "COSMETICS.TYPE.LEG_RIGHT",
+    "name": "Legwear Right"
+  },
+  {
+    "key": "COSMETICS.TYPE.LEG_RIGHT_MESH",
+    "name": "Leg Right"
+  },
+  {
+    "key": "COSMETICS.TYPE.LEG_RIGHT_OVERLAY",
+    "name": "Leg Right Overlay"
+  },
+  {
+    "key": "COSMETICS.CATEGORY.ARMS",
+    "name": "Arms"
+  },
+  {
+    "key": "COSMETICS.CATEGORY.BODY",
+    "name": "Body"
+  },
+  {
+    "key": "COSMETICS.CATEGORY.HEAD",
+    "name": "Head"
+  },
+  {
+    "key": "COSMETICS.CATEGORY.LEGS",
+    "name": "Legs"
+  },
+  {
+    "key": "COSMETICS.CATEGORY.PRESETS",
+    "name": "Presets"
+  }
+]
